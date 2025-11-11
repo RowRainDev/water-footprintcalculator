@@ -4,6 +4,7 @@
 Bu proje, **okulum için geliştirilmiş** olup, başkalarına yardımcı olmak amacıyla **açık kaynak** olarak paylaşılmaktadır.  
 Proje, kullanıcıların günlük alışkanlıklarını analiz ederek su ayak izlerini hesaplamayı ve sonuçları istatistiksel olarak sunmayı amaçlamaktadır.
 
+demo: https://eml.rf.gd
 ---
 
 ## Özellikler
