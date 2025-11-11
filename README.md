@@ -21,4 +21,4 @@ Proje, kullanıcıların günlük alışkanlıklarını analiz ederek su ayak iz
 
 1. Projeyi bilgisayarınıza indirin veya GitHub üzerinden klonlayın:  
    ```bash
-   git clone https://github.com/kullaniciadi/proje-adi.git
+   git clone https://github.com/RowRainDev/water-footprintcalculator
